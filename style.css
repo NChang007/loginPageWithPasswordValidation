@@ -43,6 +43,7 @@ html, body {
     text-decoration: none;
     margin: 1rem;
     letter-spacing: 2px;
+    cursor: pointer;
 }
 .loginFormBtnSection > a:hover {
     letter-spacing: 5px;
